@@ -30,7 +30,7 @@ I'm a passionate **frontend developer** from Bangladesh. I love turning ideas an
 - 🎨 Designing with **Figma** and styling with **Tailwind CSS** & **shadcn/ui**
 - 💬 Ask me about **JavaScript, React, Next.js, Express.js**
 - 📫 Reach me at **xayaanhussain542@gmail.com**
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1h86XJA2HKQ1v98_iPy4sISOBBfajEVkb/view?usp=drive_link&fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExb3JkbEFWZ2dTVE1rcXJISwEeHa14O8VD7jX3oWJo9Yv6X2dFJQ5Y-5RCJrhg9NJ0c2HlEah5eBIwXE8QcEE_aem_vp9-cepoev9GLwDOkp_Yiw](https://drive.google.com/file/d/1h86XJA2HKQ1v98_iPy4sISOBBfajEVkb/view?usp=drive_link&fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExb3JkbEFWZ2dTVE1rcXJISwEeHa14O8VD7jX3oWJo9Yv6X2dFJQ5Y-5RCJrhg9NJ0c2HlEah5eBIwXE8QcEE_aem_vp9-cepoev9GLwDOkp_Yiw)
 ---
 
 ## 🛠️ Tech Stack
@@ -79,9 +79,6 @@ I'm a passionate **frontend developer** from Bangladesh. I love turning ideas an
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussain3439&" alt="hussain3439" /></p>
 
 <br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ronithussain&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
 </div>
 
 ---
