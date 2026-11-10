@@ -1,41 +1,93 @@
-![logo](https://github.com/ronithussain/ronithussain/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Hussain</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<img src="https://github.com/ronithussain/ronithussain/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true" alt="Banner" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hussain3439&label=Profile%20views&color=0e75b6&style=flat" alt="hussain3439" /> </p>
+<h1>Hi 👋, I'm Hussain</h1>
 
-<Img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"  >
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Frontend+Developer+from+Bangladesh+🇧🇩;Learning+React,+Next.js+%26+Express;Building+clean+and+modern+UIs" alt="Typing SVG" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronithussain&label=Profile%20views&color=0e75b6&style=flat" alt="ronithussain" /> </p>
+<br/>
 
+<img src="https://komarev.com/ghpvc/?username=ronithussain&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-- 🔭 I’m currently working on [Car-Hermione](https://assignment-8-module-49-cat-hermione-ten.vercel.app)
+<br/><br/>
 
-- 🌱 I’m currently learning **reactjs, expressjs**
+<a href="mailto:xayaanhussain542@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://discord.gg/huss_ain3439.net"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://drive.google.com/file/d/1h86XJA2HKQ1v98_iPy4sISOBBfajEVkb/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
 
-- 💬 Ask me about **javaScript, react, nextjs expressjs**
+</div>
 
-- 📫 How to reach me **xayaanhussain542@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1h86XJA2HKQ1v98_iPy4sISOBBfajEVkb/view?usp=drive_link&fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExb3JkbEFWZ2dTVE1rcXJISwEeHa14O8VD7jX3oWJo9Yv6X2dFJQ5Y-5RCJrhg9NJ0c2HlEah5eBIwXE8QcEE_aem_vp9-cepoev9GLwDOkp_Yiw](https://drive.google.com/file/d/1h86XJA2HKQ1v98_iPy4sISOBBfajEVkb/view?usp=drive_link&fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExb3JkbEFWZ2dTVE1rcXJISwEeHa14O8VD7jX3oWJo9Yv6X2dFJQ5Y-5RCJrhg9NJ0c2HlEah5eBIwXE8QcEE_aem_vp9-cepoev9GLwDOkp_Yiw)
+## 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md hussain" height="30" width="40" /></a>
-</p>
+I'm a passionate **frontend developer** from Bangladesh. I love turning ideas and Figma designs into fast, responsive and good-looking websites. I'm still learning every day and enjoy building real projects to improve my skills.
 
-<p align="left">
-<a href="https://linkedin.com/in/md-hussain343999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-hussain343999" height="30" width="40" /></a>
-<a href="https://discord.gg/huss_ain3439.net" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="huss_ain3439.net" height="30" width="40" /></a>
-</p>
+- 🔭 Currently working on **[Car-Hermione](https://assignment-8-module-49-cat-hermione-ten.vercel.app)**
+- 🌱 Currently learning **React, Next.js, Node.js, Express.js, MongoDB, TypeScript**
+- 🎨 Designing with **Figma** and styling with **Tailwind CSS** & **shadcn/ui**
+- 💬 Ask me about **JavaScript, React, Next.js, Express.js**
+- 📫 Reach me at **xayaanhussain542@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
+## 🛠️ Tech Stack
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+### Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Design & Tools
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🚀 Featured Project
+
+| Project | Description | Link |
+| ------- | ----------- | ---- |
+| **Car-Hermione** | A car-themed frontend project built while learning React | [Live Demo](https://assignment-8-module-49-cat-hermione-ten.vercel.app) |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussain3439&show_icons=true&locale=en&layout=compact" alt="hussain3439" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hussain3439&show_icons=true&locale=en" alt="hussain3439" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussain3439&" alt="hussain3439" /></p>
 
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ronithussain&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile! Let's build something great together. 🚀
+
+</div>
