@@ -1,4 +1,4 @@
-<img src="https://github.com/ronithussain/ronithussain/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true" alt="Banner" width="100%" />
+<img src="https://i.ibb.co.com/Ngf0kKtD/banner-with-mongodb.png?raw=true" alt="Banner" width="100%" />
 <br/>
 
 <h1 align="center">Hey 👋, I'm Hussain</h1>
