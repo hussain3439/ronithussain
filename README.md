@@ -1,115 +1,107 @@
-<div align="center">
-
 <img src="https://github.com/ronithussain/ronithussain/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true" alt="Banner" width="100%" />
 <br/>
 
-# Hi 👋, I'm Hussain
+<h1 align="center">Hey 👋, I'm Hussain</h1>
 
-### Full Stack Developer from Bangladesh 🇧🇩
-**Turning ideas into scalable web solutions**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+Bangladesh+🇧🇩;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Open+to+Work" alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Open+to+Work+%7C+Full+Stack+Developer;React+%26+Next.js+%7C+Node.js+%26+Express;Clean+Code.+Modern+Technologies.+Continuous+Growth." alt="Typing SVG" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hussain3439&label=Profile%20views&color=22C55E&style=flat" alt="Profile views" />
+</p>
 
-<br/>
-
-![Open to Work](https://img.shields.io/badge/Status-Open_to_Work-22C55E?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=hussain3439&label=Profile%20views&color=22C55E&style=for-the-badge)
-
-<br/>
-
-<a href="mailto:xayaanhussain542@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://drive.google.com/file/d/1h86XJA2HKQ1v98_iPy4sISOBBfajEVkb/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-22C55E?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
-<a href="https://discord.gg/huss_ain3439.net"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-
-</div>
+<p align="center">
+  <a href="mailto:xayaanhussain542@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://drive.google.com/file/d/1h86XJA2HKQ1v98_iPy4sISOBBfajEVkb/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-22C55E?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+I'm a **Full Stack Developer** who loves building clean, modern and responsive web apps. I turn **Figma** designs into real websites with **React, Next.js, Tailwind CSS and shadcn/ui**, and I build the backend with **Node.js, Express.js and MongoDB**. I'm always learning, and I'm looking for a **junior Full Stack / Frontend Developer** role where I can grow with a team.
 
-I'm a **Full Stack Developer** who enjoys building clean, responsive and user-friendly web applications. I turn Figma designs into real websites with **React, Next.js and Tailwind CSS**, and I build the backend with **Node.js, Express.js and MongoDB**.
+---
 
-I'm actively looking for a **junior / entry-level Full Stack or Frontend Developer role** where I can learn from a team and add real value.
+<table>
+<tr>
+<td valign="top" width="55%">
 
-- 🔭 Currently working on **[Car-Hermione](https://assignment-8-module-49-cat-hermione-ten.vercel.app)** and **[Good Gather](https://good-gather.vercel.app)**
-- 🌱 Learning more about **TypeScript, Next.js, Express.js and MongoDB**
-- 🎨 Designing UI in **Figma**, styling with **Tailwind CSS** and **shadcn/ui**
+### 🧑‍💻 More About Me
+
+- 🔭 I'm currently working on **[Good Gather](https://good-gather.vercel.app)** and **[Car-Hermione](https://assignment-8-module-49-cat-hermione-ten.vercel.app)**
+- 🌱 I'm learning **TypeScript, Next.js, Express.js and MongoDB**
+- 🎨 I design in **Figma** and style with **Tailwind CSS** and **shadcn/ui**
 - 💬 Ask me about **JavaScript, React, Next.js, Express.js**
-- 📫 Email: **xayaanhussain542@gmail.com**
+- 💼 I'm open to **full-time, part-time, internship and freelance** work
+- 📄 Know more about me: [View my Resume](https://drive.google.com/file/d/1h86XJA2HKQ1v98_iPy4sISOBBfajEVkb/view?usp=drive_link)
+- 📫 Reach me at **xayaanhussain542@gmail.com**
+
+</td>
+
+
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="380" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Languages and Tools
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,figma,git,github,vercel&perline=14" alt="Tech stack" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+### 📊 GitHub Stats
 
-| Project | What it does | Tech | Links |
-| ------- | ------------ | ---- | ----- |
-| **Good Gather** | Volunteer events platform with upcoming events, past events and event-type filters (Donation, Cleanup, Plantation, Food Drive and more) | Next.js, Express.js, MongoDB | [Live](https://good-gather.vercel.app) |
-| **Car-Hermione** | Responsive car-themed website built while learning React | React, Tailwind CSS | [Live](https://assignment-8-module-49-cat-hermione-ten.vercel.app) |
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hussain3439&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussain3439&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
 
-> 📌 Tip: add your GitHub repo link for each project in the "Links" column, e.g. `[Code](https://github.com/hussain3439/REPO-NAME)`.
-
----
-
-## 💡 What I Bring
-
-| | |
-|---|---|
-| 🧹 **Clean Code** | Simple, readable and easy-to-maintain code |
-| 🚀 **Modern Technologies** | React, Next.js, Node.js, Express.js, MongoDB |
-| 🎨 **Design to Code** | Turning Figma designs into pixel-perfect, responsive UI |
-| 📈 **Continuous Growth** | Learning something new every day |
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussain3439&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 My Projects
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=hussain3439&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussain3439&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+#### 🤝 Good Gather
+A volunteer events platform. See upcoming events, browse past events, and filter by type (Donation, Cleanup, Plantation, Food Drive and more).
 
-<br/>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hussain3439&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+[🔗 Live Demo](https://good-gather.vercel.app)
 
-</div>
+</td>
+<td valign="top" width="50%">
+
+#### 🚗 Car-Hermione
+A responsive car-themed website built while learning React.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+[🔗 Live Demo](https://assignment-8-module-49-cat-hermione-ten.vercel.app)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Let's Work Together
-
-I'm open to **full-time, part-time, internship and freelance** opportunities.
-
-📧 **xayaanhussain542@gmail.com**  |  📄 [View my Resume](https://drive.google.com/file/d/1h86XJA2HKQ1v98_iPy4sISOBBfajEVkb/view?usp=drive_link)
-
-<div align="center">
-
-**Build Better Together** 🚀
-
-</div>
+<p align="center">
+  ⭐ Thanks for visiting my profile! Let's build something great together. 🚀
+</p>
